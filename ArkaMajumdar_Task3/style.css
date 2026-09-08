@@ -1,0 +1,52 @@
+* {
+  background-color: chocolate;
+}
+
+.head {
+  color: navy;
+  font-weight: bold;
+}
+
+#bglime {
+  background-color: limegreen;
+}
+
+.highlight {
+  color: red;
+  background-color: limegreen;
+}
+
+p {
+  color: white;
+}
+
+#para {
+  color: green;
+  font-size: 14px;
+}
+
+.reset {
+  color: #000;
+  font-weight: normal;
+}
+
+.instruction {
+  color: #000;
+  font-weight: bold;
+}
+
+ul li:first-child a {
+  background-color: yellow;
+}
+
+ul li:last-child a {
+  background-color: blueviolet;
+}
+
+ol li:nth-child(2) {
+  color: blue;
+}
+
+ol li:nth-child(3) {
+  color: red;
+}
